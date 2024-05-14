@@ -107,6 +107,8 @@ $ docker push jluisalvarez/hm-flask:2024
 
 ```
 
+También, puedes crear un repositorio en ECR, etiquetar la imagen de forma adecuada y subirla a ese registro.
+
 # Despliega en AWS ECS
 
 En la consola web de AWS, accede a Amazon Elastic Container Service.
